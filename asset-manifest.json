@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/firebase-testing-app_with-react/static/css/main.f05016c4.chunk.css",
+    "main.js": "/firebase-testing-app_with-react/static/js/main.f7bfbac8.chunk.js",
+    "main.js.map": "/firebase-testing-app_with-react/static/js/main.f7bfbac8.chunk.js.map",
+    "runtime-main.js": "/firebase-testing-app_with-react/static/js/runtime-main.9543ec6f.js",
+    "runtime-main.js.map": "/firebase-testing-app_with-react/static/js/runtime-main.9543ec6f.js.map",
+    "static/js/2.9fc2c368.chunk.js": "/firebase-testing-app_with-react/static/js/2.9fc2c368.chunk.js",
+    "static/js/2.9fc2c368.chunk.js.map": "/firebase-testing-app_with-react/static/js/2.9fc2c368.chunk.js.map",
+    "index.html": "/firebase-testing-app_with-react/index.html",
+    "precache-manifest.e662ad5794cb7a9c356de9f3c1002a17.js": "/firebase-testing-app_with-react/precache-manifest.e662ad5794cb7a9c356de9f3c1002a17.js",
+    "service-worker.js": "/firebase-testing-app_with-react/service-worker.js",
+    "static/css/main.f05016c4.chunk.css.map": "/firebase-testing-app_with-react/static/css/main.f05016c4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9543ec6f.js",
+    "static/js/2.9fc2c368.chunk.js",
+    "static/css/main.f05016c4.chunk.css",
+    "static/js/main.f7bfbac8.chunk.js"
+  ]
+}
